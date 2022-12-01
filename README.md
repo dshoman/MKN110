@@ -35,8 +35,8 @@ The script has been tested using Python 3.8.5 and requires the following package
 - astropy (5.0.3)
 - extinction (0.4.6)
 
-[^1] Bischoff & Kollatschny, 1999, A&A, 345, 49. 
-[^2] Kollatschny, 2001, A&A, 379, 125.
-[^3] Landt H. et al., 2008, ApJS, 174, 282.
-[^4] Landt H. et al., 2011, MNRAS, 414, 218.
+[^1]: Bischoff & Kollatschny, 1999, A&A, 345, 49. 
+[^2]: Kollatschny, 2001, A&A, 379, 125.
+[^3]: Landt H. et al., 2008, ApJS, 174, 282.
+[^4]: Landt H. et al., 2011, MNRAS, 414, 218.
 
