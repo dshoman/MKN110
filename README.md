@@ -1,6 +1,6 @@
 # Generating Figures on MKN 110 BLR variability
 
-This repository contains the optical fluxes and spectra discussed in the paper [The Long-term broad-line responsivity in MKN 110](ArXiv.URL). In addition to these data-sets, the script *make_mkn110_figures.py* produces the figures included in the paper (as well as a few additional ones).
+This repository contains the optical fluxes and spectra discussed in the paper [The Long-term broad-line responsivity in MKN 110](https://arxiv.org/abs/2212.00684). In addition to these data-sets, the script *make_mkn110_figures.py* produces the figures included in the paper (as well as a few additional ones).
 
 ## The Data
 
@@ -13,7 +13,7 @@ The spectral data are stored in the **spectra** directory. The spectra are in AS
 
 The results of the spectral fitting are included in the tab-separated files *mkn110_profile_data.tsv* and *mkn110_profile_data_stacked.tsv*. The columns represent the data of the spectral observation (this does not apply to the stacked data), and for He II 4686 and Hbeta the normalised line flux, narrow-to-broad line component offset in km/s, and the broad line width in km/s. The files *mkn110_profile_data_original.tsv* and *mkn110_profile_data_original_stacked.tsv* contain the same information, however the flux is not normalised (erg/cm^-2/s^-1) and the offsets and line widths are in units of Angstrom.
 
-Further details on the data-sets provided here can be found in [the paper](ArXiv.URL).
+Further details on the data-sets provided here can be found in [the paper](https://arxiv.org/abs/2212.00684).
 
 ## Creating the Plots
 
